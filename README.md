@@ -20,4 +20,4 @@ python main.py -d ICEWS18 --history-len 4 --lambdax 2.0 --graph-layer 2 --use-va
 
 ## Acknowledge
 Some of our code is also referenced from PLEASING, and the original dataset can be found here: [PLEASING](https://github.com/KcAcoZhang/PLEASING).
-And RE-GCN: [DiffuTKG](https://github.com/AONE-NLP/DiffuTKG)
+And DiffuTKG: [DiffuTKG](https://github.com/AONE-NLP/DiffuTKG)
