@@ -1,3 +1,6 @@
+# Diffusion Model with Selective Attention for Temporal Knowledge Graph Reasoning
+
+## Overview
 This is the code for "Diffusion Model with Selective Attention for Temporal Knowledge Graph Reasoning", accepted by ECML-PKDD 2025.
 
 ## Datasets
