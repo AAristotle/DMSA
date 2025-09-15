@@ -1,4 +1,4 @@
-This is the code associated with the submission "Diffusion Model with Selective Attention for Temporal Knowledge Graph Reasoning" under review at ECML-PKDD 2025.
+This is the code for "Diffusion Model with Selective Attention for Temporal Knowledge Graph Reasoning", accepted by ECML-PKDD 2025.
 
 ## Datasets
 
